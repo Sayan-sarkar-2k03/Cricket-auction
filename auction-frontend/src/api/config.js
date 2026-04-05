@@ -1,5 +1,5 @@
 // API Configuration
-export const API_BASE_URL = 'http://localhost:8000/api';
+export const API_BASE_URL = 'https://cricket-auction-bcie.onrender.com/api';
 
 // Utility to format currency
 export const formatCurrency = (amount, symbol = '$') => {
